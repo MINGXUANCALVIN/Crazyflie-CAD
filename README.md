@@ -3,9 +3,10 @@
 
 Crazyflie 2.0 is an opensource nano quadrotor by Bitcraze [https://www.bitcraze.io]. 
 
-This repository contains a 3D CAD model of the quadrotor in Solidworks.
-
 ![alt tag](https://github.com/rshum19/Crazyflie-CAD/blob/master/Renders/CF_render001.JPG)
 
-The model aims to represent as close as possible the dimensions and mass properties of the actual quadrotor. 
-Additionally we have designed frames to hold motion capture markers and protect the quadrotor from collisions. They are intended to be either 3D printed or laser cut.
+This repository contains:
+  1. 3D CAD model of the quadrotor in Solidworks
+  2. Frame for motion capture markers and protection against collisions (3D print and Laser cut versions)
+  3. STL files for building 3D animations
+
